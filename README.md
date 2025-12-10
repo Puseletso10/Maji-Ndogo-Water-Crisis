@@ -48,7 +48,12 @@ A merged table created for final insights and improvement recommendations.
 - Queues are longer in the mornings and evenings.
 - Wednesdays and Sundays have the shortest queues.
 
-![Description](https://raw.githubusercontent.com/username/repo/main/image.png)
+### More people use shared taps in all Provinces
+![More people use shared taps in all Provinces](https://github.com/Puseletso10/Maji-Ndogo-Water-Crisis/blob/main/image.PNG)
+
+### Longer queues on Sartuday than any other days.
+![](https://github.com/Puseletso10/Maji-Ndogo-Water-Crisis/blob/main/image1.PNG)
+
 
 ## Recommandations
 - Focus our efforts on improving the water sources that affect the most people. Most people will benefit if we improve the shared taps first.
