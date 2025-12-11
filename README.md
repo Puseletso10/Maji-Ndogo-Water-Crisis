@@ -47,6 +47,7 @@ A merged table created for final insights and improvement recommendations.
 - The queue is longer on Sartuday than other days.
 - Queues are longer in the mornings and evenings.
 - Wednesdays and Sundays have the shortest queues.
+- 20.7% of the water sources do not have clean water, 8.2% have clean water and the rest dont have results.
 
 ### More people use shared taps in all Provinces
 ![More people use shared taps in all Provinces](https://github.com/Puseletso10/Maji-Ndogo-Water-Crisis/blob/main/image.PNG)
