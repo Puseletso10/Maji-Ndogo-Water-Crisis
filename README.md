@@ -89,10 +89,6 @@ END AS Improvement
 
 ---
 
-
-## 🤝 Contributing
-Contributions are welcome—new datasets, improved logic, documentation updates, or visualization enhancements.
-
 ---
 
 ## 📬 Contact
